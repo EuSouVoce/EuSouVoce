@@ -65,7 +65,7 @@ jobs:
           plugin_notable_types: commit
           plugin_people: yes
           plugin_people_limit: 50
-          plugin_people_size: 10
+          plugin_people_size: 16
           plugin_people_types: followers, following
           plugin_stargazers: no
           repositories_batch: 200
